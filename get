@@ -1,4 +1,4 @@
-#!/bin/bash
+``#!/bin/bash
 # wget -O - https://get.hacs.xyz | bash -
 set -e
 
